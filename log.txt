@@ -1,0 +1,6 @@
+directory:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\1
+	file:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\1\Tom.txt
+directory:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\2
+	file:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\2\Sam.txt
+directory:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\3
+	file:C:\Users\Admin\Desktop\SOEN 6441\PCTAssignment2\Data\3\Harry.txt
